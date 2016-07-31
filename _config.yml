@@ -1,0 +1,14 @@
+layout_spectrum: 0.2625277
+typography_spectrum: 0.4450935
+color:
+  saturation: 0.1463705
+  lightness: 0.8077571
+  brandStrength: 0.3601508
+  brandColors:
+    - '#FFFFFF'
+    - '#718BA6'
+    - '#2E282A'
+    - '#605855'
+    - '#C7B7AF'
+  rhythmicContrast: 0.9014289
+name: 'Just meditate '
